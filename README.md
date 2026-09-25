@@ -13,7 +13,7 @@ Fine-tuned YOLOv11-nano (classification) on a 100-class sports dataset.
 - Epochs: 10, Batch: 8, Image size: 224
 
 ## Files
-- `Q1_Sports_Finetune_Clean.ipynb` — main notebook
+- `test.ipynb` — main notebook
 - `sports_predictions.csv` — predictions on 100 unseen test images
 - `best_sports_model.pt` — fine-tuned weights
 
