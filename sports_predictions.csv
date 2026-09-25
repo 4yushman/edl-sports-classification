@@ -1,0 +1,101 @@
+image,actual,predicted,confidence_%,correct
+1.jpg,air hockey,air hockey,100.0,True
+2.jpg,air hockey,air hockey,99.99,True
+3.jpg,air hockey,air hockey,99.68,True
+4.jpg,air hockey,air hockey,100.0,True
+5.jpg,air hockey,air hockey,99.96,True
+1.jpg,ampute football,ampute football,99.64,True
+2.jpg,ampute football,ampute football,99.95,True
+3.jpg,ampute football,ampute football,78.76,True
+4.jpg,ampute football,ampute football,99.86,True
+5.jpg,ampute football,ampute football,99.75,True
+1.jpg,archery,archery,100.0,True
+2.jpg,archery,archery,99.95,True
+3.jpg,archery,archery,99.26,True
+4.jpg,archery,archery,99.89,True
+5.jpg,archery,archery,99.86,True
+1.jpg,arm wrestling,arm wrestling,99.17,True
+2.jpg,arm wrestling,arm wrestling,99.97,True
+3.jpg,arm wrestling,arm wrestling,99.99,True
+4.jpg,arm wrestling,arm wrestling,99.23,True
+5.jpg,arm wrestling,arm wrestling,99.87,True
+1.jpg,axe throwing,axe throwing,90.55,True
+2.jpg,axe throwing,axe throwing,99.98,True
+3.jpg,axe throwing,axe throwing,99.97,True
+4.jpg,axe throwing,axe throwing,99.97,True
+5.jpg,axe throwing,axe throwing,99.9,True
+1.jpg,balance beam,balance beam,99.94,True
+2.jpg,balance beam,balance beam,100.0,True
+3.jpg,balance beam,balance beam,99.02,True
+4.jpg,balance beam,balance beam,99.95,True
+5.jpg,balance beam,balance beam,99.37,True
+1.jpg,barell racing,barell racing,99.59,True
+2.jpg,barell racing,barell racing,99.05,True
+3.jpg,barell racing,barell racing,99.99,True
+4.jpg,barell racing,barell racing,99.98,True
+5.jpg,barell racing,barell racing,99.99,True
+1.jpg,baseball,balance beam,48.65,False
+2.jpg,baseball,baseball,99.83,True
+3.jpg,baseball,baseball,99.72,True
+4.jpg,baseball,baseball,99.85,True
+5.jpg,baseball,baseball,97.42,True
+1.jpg,basketball,basketball,99.51,True
+2.jpg,basketball,basketball,99.09,True
+3.jpg,basketball,basketball,99.82,True
+4.jpg,basketball,basketball,99.86,True
+5.jpg,basketball,basketball,99.92,True
+1.jpg,baton twirling,baton twirling,99.88,True
+2.jpg,baton twirling,baseball,75.24,False
+3.jpg,baton twirling,baton twirling,69.52,True
+4.jpg,baton twirling,baton twirling,81.93,True
+5.jpg,baton twirling,archery,97.43,False
+1.jpg,bike polo,basketball,49.38,False
+2.jpg,bike polo,axe throwing,31.55,False
+3.jpg,bike polo,basketball,53.64,False
+4.jpg,bike polo,ampute football,42.39,False
+5.jpg,bike polo,basketball,41.84,False
+1.jpg,billiards,air hockey,98.67,False
+2.jpg,billiards,air hockey,68.8,False
+3.jpg,billiards,air hockey,42.91,False
+4.jpg,billiards,air hockey,92.83,False
+5.jpg,billiards,ampute football,58.44,False
+1.jpg,bmx,archery,88.76,False
+2.jpg,bmx,balance beam,61.02,False
+3.jpg,bmx,basketball,57.27,False
+4.jpg,bmx,barell racing,50.46,False
+5.jpg,bmx,archery,60.84,False
+1.jpg,bobsled,air hockey,40.2,False
+2.jpg,bobsled,barell racing,24.18,False
+3.jpg,bobsled,basketball,43.17,False
+4.jpg,bobsled,barell racing,45.42,False
+5.jpg,bobsled,baseball,36.46,False
+1.jpg,bowling,air hockey,50.33,False
+2.jpg,bowling,ampute football,53.67,False
+3.jpg,bowling,basketball,37.01,False
+4.jpg,bowling,basketball,64.17,False
+5.jpg,bowling,basketball,94.83,False
+1.jpg,boxing,axe throwing,22.34,False
+2.jpg,boxing,arm wrestling,36.0,False
+3.jpg,boxing,basketball,82.96,False
+4.jpg,boxing,basketball,74.13,False
+5.jpg,boxing,basketball,91.82,False
+1.jpg,bull riding,barell racing,72.78,False
+2.jpg,bull riding,barell racing,99.53,False
+3.jpg,bull riding,barell racing,93.35,False
+4.jpg,bull riding,barell racing,97.51,False
+5.jpg,bull riding,barell racing,99.32,False
+1.jpg,bungee jumping,archery,40.41,False
+2.jpg,bungee jumping,balance beam,76.32,False
+3.jpg,bungee jumping,archery,53.58,False
+4.jpg,bungee jumping,archery,98.75,False
+5.jpg,bungee jumping,archery,48.53,False
+1.jpg,canoe slamon,archery,50.85,False
+2.jpg,canoe slamon,barell racing,42.26,False
+3.jpg,canoe slamon,barell racing,44.1,False
+4.jpg,canoe slamon,barell racing,63.9,False
+5.jpg,canoe slamon,barell racing,44.15,False
+1.jpg,cheerleading,basketball,66.75,False
+2.jpg,cheerleading,baseball,69.25,False
+3.jpg,cheerleading,basketball,69.37,False
+4.jpg,cheerleading,basketball,95.99,False
+5.jpg,cheerleading,basketball,98.69,False
