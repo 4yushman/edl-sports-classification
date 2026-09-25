@@ -25,3 +25,8 @@ Fine-tuned YOLOv11-nano (classification) on a 100-class sports dataset.
 ## How to run
 pip install ultralytics
 jupyter notebook Q1_Sports_Finetune_Clean.ipynb
+
+## Limitations
+- Trained on 10 of 100 classes (400 images) due to CPU-only 8GB machine
+- Full training requires GPU and longer time
+- 47% test accuracy reflects small subset; full-data training expected to reach 85%+
