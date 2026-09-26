@@ -1,0 +1,101 @@
+image,actual,predicted,confidence_%,correct
+1.jpg,air hockey,air hockey,98.3,True
+2.jpg,air hockey,air hockey,94.03,True
+3.jpg,air hockey,air hockey,93.17,True
+4.jpg,air hockey,air hockey,99.53,True
+5.jpg,air hockey,air hockey,99.34,True
+1.jpg,ampute football,ampute football,98.8,True
+2.jpg,ampute football,ampute football,95.41,True
+3.jpg,ampute football,ampute football,58.93,True
+4.jpg,ampute football,ampute football,87.25,True
+5.jpg,ampute football,ampute football,99.42,True
+1.jpg,archery,archery,99.54,True
+2.jpg,archery,archery,95.47,True
+3.jpg,archery,archery,36.76,True
+4.jpg,archery,archery,98.31,True
+5.jpg,archery,archery,98.55,True
+1.jpg,arm wrestling,arm wrestling,91.24,True
+2.jpg,arm wrestling,arm wrestling,99.22,True
+3.jpg,arm wrestling,arm wrestling,99.58,True
+4.jpg,arm wrestling,arm wrestling,97.41,True
+5.jpg,arm wrestling,arm wrestling,98.16,True
+1.jpg,axe throwing,axe throwing,47.11,True
+2.jpg,axe throwing,axe throwing,99.62,True
+3.jpg,axe throwing,axe throwing,99.99,True
+4.jpg,axe throwing,axe throwing,99.98,True
+5.jpg,axe throwing,axe throwing,97.55,True
+1.jpg,balance beam,balance beam,98.3,True
+2.jpg,balance beam,balance beam,99.61,True
+3.jpg,balance beam,parallel bar,51.59,False
+4.jpg,balance beam,balance beam,94.88,True
+5.jpg,balance beam,balance beam,81.21,True
+1.jpg,barell racing,barell racing,92.93,True
+2.jpg,barell racing,barell racing,77.32,True
+3.jpg,barell racing,barell racing,92.61,True
+4.jpg,barell racing,barell racing,86.35,True
+5.jpg,barell racing,barell racing,99.47,True
+1.jpg,baseball,baseball,63.66,True
+2.jpg,baseball,cricket,43.7,False
+3.jpg,baseball,baseball,34.24,True
+4.jpg,baseball,baseball,61.65,True
+5.jpg,baseball,baseball,81.91,True
+1.jpg,basketball,basketball,90.13,True
+2.jpg,basketball,basketball,93.26,True
+3.jpg,basketball,basketball,96.15,True
+4.jpg,basketball,basketball,91.85,True
+5.jpg,basketball,basketball,93.94,True
+1.jpg,baton twirling,baton twirling,74.9,True
+2.jpg,baton twirling,baton twirling,95.12,True
+3.jpg,baton twirling,baton twirling,45.57,True
+4.jpg,baton twirling,baton twirling,85.34,True
+5.jpg,baton twirling,javelin,42.22,False
+1.jpg,bike polo,bike polo,95.27,True
+2.jpg,bike polo,bike polo,34.35,True
+3.jpg,bike polo,bike polo,91.78,True
+4.jpg,bike polo,bike polo,90.87,True
+5.jpg,bike polo,wheelchair racing,52.48,False
+1.jpg,billiards,billiards,98.23,True
+2.jpg,billiards,billiards,99.86,True
+3.jpg,billiards,billiards,99.74,True
+4.jpg,billiards,billiards,96.9,True
+5.jpg,billiards,billiards,99.92,True
+1.jpg,bmx,bmx,50.54,True
+2.jpg,bmx,skydiving,57.2,False
+3.jpg,bmx,bmx,76.74,True
+4.jpg,bmx,motorcycle racing,75.03,False
+5.jpg,bmx,bmx,85.23,True
+1.jpg,bobsled,bobsled,79.18,True
+2.jpg,bobsled,bobsled,90.5,True
+3.jpg,bobsled,bobsled,77.39,True
+4.jpg,bobsled,bobsled,88.75,True
+5.jpg,bobsled,bobsled,82.72,True
+1.jpg,bowling,bowling,96.13,True
+2.jpg,bowling,bowling,63.54,True
+3.jpg,bowling,bowling,67.21,True
+4.jpg,bowling,bowling,54.71,True
+5.jpg,bowling,bowling,89.69,True
+1.jpg,boxing,boxing,97.08,True
+2.jpg,boxing,boxing,99.78,True
+3.jpg,boxing,boxing,98.77,True
+4.jpg,boxing,boxing,99.56,True
+5.jpg,boxing,boxing,98.45,True
+1.jpg,bull riding,bull riding,98.34,True
+2.jpg,bull riding,bull riding,99.3,True
+3.jpg,bull riding,bull riding,91.84,True
+4.jpg,bull riding,bull riding,97.62,True
+5.jpg,bull riding,bull riding,98.23,True
+1.jpg,bungee jumping,bungee jumping,96.4,True
+2.jpg,bungee jumping,bungee jumping,36.19,True
+3.jpg,bungee jumping,bungee jumping,99.43,True
+4.jpg,bungee jumping,trapeze,70.01,False
+5.jpg,bungee jumping,bungee jumping,99.82,True
+1.jpg,canoe slamon,canoe slamon,91.6,True
+2.jpg,canoe slamon,canoe slamon,99.85,True
+3.jpg,canoe slamon,canoe slamon,69.61,True
+4.jpg,canoe slamon,canoe slamon,80.28,True
+5.jpg,canoe slamon,canoe slamon,98.92,True
+1.jpg,cheerleading,cheerleading,54.09,True
+2.jpg,cheerleading,football,46.83,False
+3.jpg,cheerleading,cheerleading,29.23,True
+4.jpg,cheerleading,cheerleading,39.85,True
+5.jpg,cheerleading,cheerleading,60.63,True

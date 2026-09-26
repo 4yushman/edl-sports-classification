@@ -1,0 +1,6 @@
+cat > .gitignore << 'EOF'
+# Large training artifacts
+*.zip
+train_batch*.jpg
+val_batch*.jpg
+EOF
